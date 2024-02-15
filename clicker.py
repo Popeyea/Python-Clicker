@@ -3,7 +3,7 @@ from tkinter import ttk
 import pyautogui
 import time
 import keyboard
-
+print("essa")
 root = Tk()
 style = ttk.Style()
 root.title("Clicker")
